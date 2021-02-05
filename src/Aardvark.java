@@ -13,7 +13,7 @@ import javax.swing.JScrollPane;
 
 public class Aardvark {
 
-  private String playerName;
+  String playerName;
   public List<Domino> _d;
   public List<Domino> _g;
   public int[][] grid = new int[7][8];
